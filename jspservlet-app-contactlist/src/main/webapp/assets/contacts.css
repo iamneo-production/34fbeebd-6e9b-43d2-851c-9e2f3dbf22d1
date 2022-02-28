@@ -1,0 +1,120 @@
+h2{
+    background-color:red;
+    color:white;
+    font-family: sans-serif;
+}
+#searchButton{
+    margin-top:3px;
+	margin-right:20px;
+    background-color:black;
+    color:white;
+	width:50px;
+    text-align:center;
+	padding: right 3px;;
+    padding-left: 3px;
+    padding-top: 2px;
+	float:right;
+    font-family: sans-serif;
+
+}
+#contactName{
+    margin-top:3px;
+	margin-right:20px;
+    height:30px;
+    float:right;
+    text-align:center;
+    border-radius: 3px;
+    font-family: sans-serif;
+    }
+
+#addButton{
+    background-image:url(/jspservlet-app-contactlist/src/main/webapp/assets/add.png)no-repeat;
+    text-align:center;
+    background-color:gainsboro;
+    color:black;
+	height:30px;
+    float:right;
+    font-family: sans-serif;
+}
+
+#addContact{
+    margin-top:3px;
+	margin-right:20px;
+    background-color:red;
+    border-radius: 3px;
+    color:white;
+    font-family: sans-serif;
+}
+
+#updateContact{
+    margin-top:3px;
+	margin-right:20px;
+    background-color:red;
+    border-radius: 3px;
+    color:white;
+    font-family: sans-serif;
+}
+
+#gird1{
+    background-color:gainsboro;
+    padding: right 3px;;
+    padding-left: 3px;
+    padding-top: 2px;
+	float:right;
+    font-family: sans-serif;
+}
+#grid2
+{
+    background-color:gainsboro;
+    padding: right 3px;;
+    padding-left: 3px;
+    padding-top: 2px;
+	float:right;
+    font-family: sans-serif;
+}
+#editContact1{
+    padding: right 3px;;
+    padding-left: 3px;
+    padding-top: 2px;
+	float:right;
+    font-family: sans-serif;
+
+}
+#deleteContact1{
+    padding: right 3px;;
+    padding-left: 3px;
+    padding-top: 2px;
+	float:right;
+    font-family: sans-serif;
+
+}
+#editContact12{
+    padding: right 3px;;
+    padding-left: 3px;
+    padding-top: 2px;
+	float:right;
+    font-family: sans-serif;
+
+}
+#deleteContact2{
+    padding: right 3px;;
+    padding-left: 3px;
+    padding-top: 2px;
+	float:right;
+    font-family: sans-serif;
+}
+#enterContactName{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+#enterContactNumber{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+#uploadImage{
+    text-align: center;
+    font-family: sans-serif;
+}

@@ -1,0 +1,3 @@
+model/Contact.class
+utility/ConnectionManager.class
+service/ContactDao.class
